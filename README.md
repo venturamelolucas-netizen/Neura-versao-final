@@ -1,4 +1,4 @@
- 🧠 Neuro App — Organização e Produtividade com IA (NEURA)
+# 🧠 Neuro App — Organização e Produtividade com IA (NEURA)
 
 O **Neuro App** é uma aplicação web focada em organização pessoal, combate à procrastinação e apoio à execução de tarefas (com atenção especial a pessoas com TDA/TDAH).
 
