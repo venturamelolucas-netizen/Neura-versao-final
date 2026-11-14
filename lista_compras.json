@@ -1,0 +1,16 @@
+{
+    "itens": [
+        {
+            "nome": "Café",
+            "comprado": false
+        },
+        {
+            "nome": "Nozes",
+            "comprado": false
+        },
+        {
+            "nome": "Chocolate Amargo",
+            "comprado": false
+        }
+    ]
+}

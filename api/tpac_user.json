@@ -1,0 +1,57 @@
+{
+    "keyla": {
+        "email": "",
+        "whatsapp": "11999999999",
+        "senha": "neuro123",
+        "preferencias": {
+            "estilo_instrucao": "direto"
+        },
+        "tarefas_diarias": [],
+        "tarefas_educacionais": [
+            {
+                "titulo": "ler 1 capítulo de livro",
+                "concluida": false,
+                "passos": [
+                    {
+                        "texto": "ORGANIZAR O ESPAÇO (5 min) – Arrumar a mesa, desligar notificações e abrir o livro na página inicial.",
+                        "concluido": false
+                    },
+                    {
+                        "texto": "LER PARTE INICIAL DO CAPÍTULO (25 min) – Use o Timer Pomodoro do Neuro App (25 min foco, 5 min pausa).",
+                        "concluido": false
+                    },
+                    {
+                        "texto": "LER O RESTANTE DO CAPÍTULO (25 min) – Continue com outro Pomodoro de 25 min.",
+                        "concluido": false
+                    }
+                ]
+            },
+            {
+                "titulo": "Estudar prova de juros compostos",
+                "concluida": false,
+                "passos": [
+                    {
+                        "texto": "📖 LER a explicação dos conceitos de juros compostos (definição, fórmula, fatores) – 25 min (Timer Pomodoro)",
+                        "concluido": true
+                    },
+                    {
+                        "texto": "✍️ ANOTAR exemplos resolvidos passo a passo e criar fichas de resumo – 20 min",
+                        "concluido": true
+                    },
+                    {
+                        "texto": "🧮 RESOLVER 5 questões de cálculo direto de juros compostos – 25 min (Timer Pomodoro)",
+                        "concluido": true
+                    },
+                    {
+                        "texto": "✅ CORRIGIR as questões, identificar erros e reescrever a solução correta – 15 min",
+                        "concluido": true
+                    },
+                    {
+                        "texto": "📑 REVISAR o resumo e fazer um mini‑quiz de 5 perguntas de memória – 20 min",
+                        "concluido": true
+                    }
+                ]
+            }
+        ]
+    }
+}

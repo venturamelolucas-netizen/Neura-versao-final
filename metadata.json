@@ -1,0 +1,6 @@
+{
+  "name": "Neuro App",
+  "description": "Aplicativo de produtividade, rotina e foco inspirado em conexões neurais com gamificação estilo Duolingo e assistência inteligente da NEURA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

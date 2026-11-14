@@ -1,0 +1,28 @@
+{
+    "keyla": {
+        "email": "",
+        "whatsapp": "11999999999",
+        "senha": "neuro123",
+        "preferencias": {
+            "estilo_instrucao": "detalhado"
+        },
+        "tarefas_diarias": [],
+        "tarefas_educacionais": []
+    },
+    "neuro user": {
+        "email": "neuro@teste.com",
+        "whatsapp": "",
+        "senha": "SenhaForte123",
+        "preferencias": {
+            "estilo_instrucao": "direto"
+        },
+        "tarefas_diarias": [
+            {
+                "titulo": "Revisar anotações neurais",
+                "concluida": true,
+                "passos": []
+            }
+        ],
+        "tarefas_educacionais": []
+    }
+}
