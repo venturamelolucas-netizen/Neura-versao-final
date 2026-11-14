@@ -140,7 +140,7 @@ Com o terminal do back-end rodando em segundo plano, abra um **segundo terminal*
 
 ## 🔑 Variáveis de Ambiente (`.env`)
 
-Certifique-se de que existe um arquivo `.env` na raiz do projeto contendo a sua chave da API (como a chave da **Groq**) e a URL da API apontando para a porta `8001`. Caso sua chave pare de funcionar, gere uma nova no painel da Groq e substitua no arquivo `.env`.
+**Certifique-se** de que existe um arquivo `.env` na raiz do projeto contendo a sua chave da API (como a chave da **Groq**) e a URL da API apontando para a porta `8001`. Caso sua chave pare de funcionar, gere uma nova no painel da Groq e substitua no arquivo `.env`.
 
 ---
 
