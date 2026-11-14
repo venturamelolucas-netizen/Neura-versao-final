@@ -76,9 +76,9 @@ npm install
 
 ---
 
-## ▶️ Execução do Projeto
+# ▶️ Execução do Projeto
 
-# 🚀 Como rodar o projeto (Front-end + Back-end)
+## 🚀 Como rodar o projeto (Front-end + Back-end)
 
 Este guia contém o passo a passo completo para configurar e executar a aplicação localmente, incluindo soluções para os erros mais comuns de ambiente.
 
